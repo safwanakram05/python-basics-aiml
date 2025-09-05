@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d50c0391-c0c5-4ea3-991f-81e641c58d3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grade_Classifier#2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/even_or_odd_in_list#4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guess_the_number#3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password_attempt#5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/positive_or_negative#1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-basics-aiml#DAY1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-basics-aiml#DAY2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniChallenge#1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniChallenge#2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniChallenge#2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniChallenge#4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniChallenge#5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minichallenge#3.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="32G94YP4cdyZAZ1IaN9BURJUoqg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Grade_Classifier#2.executor": "Run",
+    "Python.MiniChallenge#1.executor": "Run",
+    "Python.MiniChallenge#2.executor": "Run",
+    "Python.Minichallenge#3.executor": "Run",
+    "Python.even_or_odd_in_list#4.executor": "Run",
+    "Python.guess_the_number#3.executor": "Run",
+    "Python.password_attempt#5.executor": "Run",
+    "Python.positive_or_negative#1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d50c0391-c0c5-4ea3-991f-81e641c58d3c" name="Changes" comment="" />
+      <created>1757035851267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757035851267</updated>
+    </task>
+    <servers />
+  </component>
+</project>
