@@ -4,39 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d50c0391-c0c5-4ea3-991f-81e641c58d3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grade_Classifier#2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/even_or_odd_in_list#4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guess_the_number#3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/password_attempt#5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/positive_or_negative#1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-basics-aiml#DAY1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-basics-aiml#DAY2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniChallenge#1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniChallenge#2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiniChallenge#2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniChallenge#4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniChallenge#5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minichallenge#3.py" beforeDir="false" />
+    <list default="true" id="ba165f07-e193-487a-bf46-d73feacc4dc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DAY3/Day 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY3/Grocery_list_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY3/Student_marks_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY3/unique_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY3/word_frequency_counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
-  <component name="ProjectId" id="32G94YP4cdyZAZ1IaN9BURJUoqg" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="32KG3bogRuSV1o52BTCRgpV6rGs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,19 +40,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Grade_Classifier#2.executor": "Run",
-    "Python.MiniChallenge#1.executor": "Run",
-    "Python.MiniChallenge#2.executor": "Run",
-    "Python.Minichallenge#3.executor": "Run",
-    "Python.even_or_odd_in_list#4.executor": "Run",
-    "Python.guess_the_number#3.executor": "Run",
-    "Python.password_attempt#5.executor": "Run",
-    "Python.positive_or_negative#1.executor": "Run",
+    "Python.Day 3.executor": "Run",
+    "Python.Grocery_list_manager.executor": "Run",
+    "Python.Student_marks_dictionary.executor": "Run",
+    "Python.unique_name.executor": "Run",
+    "Python.word_frequency_counter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -68,11 +59,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d50c0391-c0c5-4ea3-991f-81e641c58d3c" name="Changes" comment="" />
-      <created>1757035851267</created>
+      <changelist id="ba165f07-e193-487a-bf46-d73feacc4dc3" name="Changes" comment="" />
+      <created>1757161651773</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1757035851267</updated>
+      <updated>1757161651773</updated>
     </task>
     <servers />
   </component>
